@@ -1,1 +1,1 @@
-## Deployed Link: https://kanyshaiosmonova.github.io/
+## Deployed Link: https://kanyshaiosmonova.github.io/CV
