@@ -136,7 +136,7 @@ h3 {
     color: var(--pure-white);
     cursor:default;
 }
-.fa-brands {
+.fa-skills {
     font-size: 15px;
     padding: 8px;
 }
@@ -193,24 +193,23 @@ h3 {
 }
 #contact-card {
     width: 90%;
-    margin: 1em;
+    margin: 1rem;
   }
-  #contact-text {
+#contact-text {
     width: 100%;
-    padding: 1em;
+    padding: 20px;
   }
-  #contact-icons {
-    width: 60%;
-    font-size: 1.2em;
-  }
-ul {
-    list-style: none;
-}
-.ll{
-    padding: 20px 255px;
-    text-align: center;
-}
+
 footer {
     text-align: center;
     margin: 50px auto;
+}
+.profile-links {
+    font-size: 20px;
+    padding: 20px;
+    color:var(--pure-white);
+}
+.profile-links:hover {
+    color: var(--hover-color);
+    cursor:pointer;
 }
