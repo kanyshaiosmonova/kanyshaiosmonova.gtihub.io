@@ -1,2 +1,2 @@
-## Deployed Link: https://kanyshaiosmonova.github.io/index.html
+## Deployed Link: https://kanyshaiosmonova.github.io/portfolio1/
 
